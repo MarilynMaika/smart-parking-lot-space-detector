@@ -31,5 +31,5 @@ The user interface was built using **Gradio** for an intuitive and interactive e
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/<your-username>/smart-parking-space-detector.git
+git clone https://github.com/MarilynMaika/smart-parking-lot-space-detector.git
 cd smart-parking-space-detector
